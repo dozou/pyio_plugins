@@ -1,0 +1,7 @@
+[Core]
+Name = 握力計測デバイス
+Module = Viewer
+
+[Documentation]
+Author = Nobunobu
+Version = 0.1

@@ -1,0 +1,8 @@
+[Core]
+Name = RawSignalViewer
+Module = Viewer
+Categories = rwr
+
+[Documentation]
+Author = Nobunobu
+Version = 0.2

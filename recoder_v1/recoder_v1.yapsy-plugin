@@ -1,0 +1,7 @@
+[Core]
+Name = recoder_v1
+Module = App
+
+[Documentation]
+Author = toma
+Version = 0.0

@@ -1,0 +1,7 @@
+[Core]
+Name = Recoder
+Module = App
+
+[Documentation]
+Author = Nobunobu
+Version = 0.1

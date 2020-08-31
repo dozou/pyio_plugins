@@ -1,0 +1,7 @@
+[Core]
+Name = Test
+Module = App
+
+[Documentation]
+Author = N.Funato
+Version = 0.0
